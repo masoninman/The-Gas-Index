@@ -1,6 +1,8 @@
 # The Gas Index
 ## Estimating methane leakage from U.S. cities' gas supplies
 
+[Gas Index logo](https://thegasindex.org/wp-content/uploads/2020/12/The-Gas-Index-logo-color-small.png)
+
 The Gas Index report and results were released on December 15, 2020, at the website https://thegasindex.org
 
 The complete model code for replicating the results is included in this repository.
